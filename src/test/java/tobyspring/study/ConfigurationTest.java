@@ -1,4 +1,4 @@
-package tobyspring.helloboot;
+package tobyspring.study;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
