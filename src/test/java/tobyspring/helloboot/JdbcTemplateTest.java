@@ -8,7 +8,7 @@ import org.springframework.jdbc.core.JdbcTemplate;
 import static org.assertj.core.api.Assertions.assertThat;
 
 @HelloBootTest
-public class JdbcTemplateTest {
+class JdbcTemplateTest {
     @Autowired
     JdbcTemplate jdbcTemplate;
 
